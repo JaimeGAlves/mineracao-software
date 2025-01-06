@@ -92,7 +92,7 @@ relatorio_detalhado.txt:
 ```bash
 Commit: abc12345
 Autor: João da Silva <joao@exemplo.com>
-Data: 01/01/2020 10:00:00
+Data: 01/01/2025 10:00:00
 Arquivos alterados/criados:
   - src/main.py: 10 linhas adicionadas, 2 linhas removidas
   - src/utils.py: 5 linhas adicionadas, 0 linhas removidas
